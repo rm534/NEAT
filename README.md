@@ -1,1 +1,2 @@
 # NEAT
+Neuro Evolution of Augmenting topologies (NEAT). This is a project that was developed for an AI compitition in 2015 (http://www.cs.put.poznan.pl/wjaskowski/game-2048-competition-gecco-2015). An algorithm was developed to play the game 2048 (given by the compitition) and to make actions every round and from that evolve and achieve higher scores. The chosen algorithm to be implemented was a mix between a evolutionary algorithm and a neural network, where networks are represented as genomes and are mutated via genetic algorithm to then produce better performing networks.
